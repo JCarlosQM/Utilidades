@@ -1,0 +1,10 @@
+#1
+
+script /dev/null -c bash
+export TERM=xterm
+reset xterm
+
+#2
+
+export TERM=linux
+python -c "import pty; pty.spawn('/bin/bash')"

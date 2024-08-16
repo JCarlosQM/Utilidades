@@ -1,0 +1,8 @@
+#All content explotaible
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master
+
+#Reverse shell php interactive
+
+https://github.com/WhiteWinterWolf/
+
