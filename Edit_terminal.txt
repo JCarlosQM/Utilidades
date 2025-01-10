@@ -8,3 +8,5 @@ reset xterm
 
 export TERM=linux
 python -c "import pty; pty.spawn('/bin/bash')"
+
+#

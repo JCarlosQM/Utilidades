@@ -6,3 +6,13 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master
 
 https://github.com/WhiteWinterWolf/
 
+#Osint browser
+
+https://browserleaks.com/
+https://github.com/laramies/theHarvester
+https://osintframework.com/
+#tweetdeck app for blue team
+
+#Rports in pehntesting
+https://github.com/The-Art-of-Hacking/h4cker/tree/master/pen_testing_reports
+https://github.com/dradis/dradis-ce  #-> gen document
